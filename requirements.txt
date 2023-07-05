@@ -1,0 +1,6 @@
+Faker==18.11.2
+nltk==3.8.1
+streamlit==1.22.0
+transformers==4.30.2
+tensorflow
+torch
