@@ -6,7 +6,7 @@ import re
 from faker import Faker
 
 
-st.set_page_config(page_title='National Identification', page_icon='w.png', layout="centered", initial_sidebar_state="auto", menu_items=None)
+st.set_page_config(page_title='WordFlow', page_icon='w.png', layout="centered", initial_sidebar_state="auto", menu_items=None)
 
 
 hide_streamlit_style = """
